@@ -1,2 +1,0 @@
-# wukong-agent
-agent
